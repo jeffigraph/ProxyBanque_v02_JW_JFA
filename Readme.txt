@@ -3,7 +3,7 @@
 	************************************
 
 ProxiBanqueSI_JL_JFA est une application de gestion de comptes bancaires
-cette version vise à afficher et gerer le portefeiulle Client d'un conseiller de la banque
+cette version vise a afficher et gerer le portefeuille Client d'un conseiller de la banque
 - l'utilisateur interagit avec ProxyBanque a travers une interface web
 
 
@@ -46,8 +46,3 @@ situe dans le dossier 'javadoc\' de vote repertoire d'installation.
    Executer le script 'ProxyBanque_V02_BaseData_MySQL.sql' 
    situe dans le repertoire 'SQL' de votre repertoire d'installation
    
- 3/ Vous pouvez utiliser
-   
-   
-   
-test
